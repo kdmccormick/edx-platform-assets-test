@@ -9,22 +9,17 @@ rm -rf "$output"
 mkdir "$output"
 
 test_paths=(
-	"/openedx/staticfiles"
-	"/openedx/themes"
-)
-
-# Most thorough check. Will do for final test:
-#test_paths+=("/openedx/edx-platform")
-
-# Less-thorough check. Better for debugging:
-test_paths+=(
-	"/openedx/edx-platform/common/static/bundles"
-	"/openedx/edx-platform/common/static/common/css"
-	"/openedx/edx-platform/common/static/js/vendor"
-	"/openedx/edx-platform/common/static/xmodule"
-	"/openedx/edx-platform/lms/static/certificates/css"
-	"/openedx/edx-platform/lms/static/css"
-	"/openedx/edx-platform/cms/static/css"
+	"/openedx"
+	#"/openedx/staticfiles"
+	#"/openedx/themes"
+	#"/openedx/edx-platform"
+	#"/openedx/edx-platform/common/static/bundles"
+	#"/openedx/edx-platform/common/static/common/css"
+	#"/openedx/edx-platform/common/static/js/vendor"
+	#"/openedx/edx-platform/common/static/xmodule"
+	#"/openedx/edx-platform/lms/static/certificates/css"
+	#"/openedx/edx-platform/lms/static/css"
+	#"/openedx/edx-platform/cms/static/css"
 )
 
 test_mode ( ) {
