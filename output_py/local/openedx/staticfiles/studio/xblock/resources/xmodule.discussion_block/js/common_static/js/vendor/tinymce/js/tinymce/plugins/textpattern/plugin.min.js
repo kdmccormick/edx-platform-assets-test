@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/textpattern/plugin.min.4c67a6ab23cc.js

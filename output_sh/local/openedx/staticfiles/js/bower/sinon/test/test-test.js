@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/bower/sinon/test/test-test.eec1f81c20b2.js

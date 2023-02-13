@@ -1,0 +1,22 @@
+# TODO
+# add sinon & squire in local
+# prettify and compare staticfiles.json
+Only in output_py/local/openedx/staticfiles/common/js/vendor: Squire.6b82cd99daf8.js
+Only in output_py/local/openedx/staticfiles/common/js/vendor: Squire.js
+Only in output_py/local/openedx/staticfiles/common/js/vendor: sinon.13eb38efdb17.js
+Only in output_py/local/openedx/staticfiles/common/js/vendor: sinon.js
+diff -r output_py/local/openedx/staticfiles/staticfiles.json output_sh/local/openedx/staticfiles/staticfiles.json
+\ No newline at end of file
+Only in output_py/local/openedx/staticfiles/studio/common/js/vendor: Squire.6b82cd99daf8.js
+Only in output_py/local/openedx/staticfiles/studio/common/js/vendor: Squire.js
+Only in output_py/local/openedx/staticfiles/studio/common/js/vendor: sinon.13eb38efdb17.js
+Only in output_py/local/openedx/staticfiles/studio/common/js/vendor: sinon.js
+diff -r output_py/local/openedx/staticfiles/studio/staticfiles.json output_sh/local/openedx/staticfiles/studio/staticfiles.json
+Only in output_py/local/openedx/staticfiles/studio/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: Squire.6b82cd99daf8.js
+Only in output_py/local/openedx/staticfiles/studio/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: Squire.js
+Only in output_py/local/openedx/staticfiles/studio/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: sinon.13eb38efdb17.js
+Only in output_py/local/openedx/staticfiles/studio/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: sinon.js
+Only in output_py/local/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: Squire.6b82cd99daf8.js
+Only in output_py/local/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: Squire.js
+Only in output_py/local/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: sinon.13eb38efdb17.js
+Only in output_py/local/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/common_static/common/js/vendor: sinon.js

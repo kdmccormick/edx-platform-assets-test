@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/utils/getAssetsPageType.7a2df9481d5c.jsx

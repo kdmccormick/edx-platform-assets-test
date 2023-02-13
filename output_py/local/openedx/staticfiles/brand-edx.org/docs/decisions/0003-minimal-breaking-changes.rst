@@ -1,0 +1,1 @@
+/openedx/staticfiles/brand-edx.org/docs/decisions/0003-minimal-breaking-changes.927efc637f26.rst

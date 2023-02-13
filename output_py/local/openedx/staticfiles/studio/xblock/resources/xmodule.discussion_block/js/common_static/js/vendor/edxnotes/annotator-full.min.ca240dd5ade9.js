@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/edxnotes/annotator-full.min.ca240dd5ade9.js

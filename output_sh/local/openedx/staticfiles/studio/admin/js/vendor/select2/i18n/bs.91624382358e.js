@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/js/vendor/select2/i18n/bs.91624382358e.js

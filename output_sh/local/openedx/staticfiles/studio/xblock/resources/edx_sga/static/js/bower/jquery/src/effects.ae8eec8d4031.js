@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/bower/jquery/src/effects.ae8eec8d4031.js

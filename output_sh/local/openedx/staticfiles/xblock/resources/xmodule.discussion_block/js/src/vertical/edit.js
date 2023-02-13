@@ -1,0 +1,1 @@
+/openedx/staticfiles/xmodule/descriptors/js/001-81f6a04b11b9b6b4b1bcd710dcf5777a.81f6a04b11b9.js

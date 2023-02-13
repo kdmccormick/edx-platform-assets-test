@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/searchreplace/plugin.min.292853617a13.js

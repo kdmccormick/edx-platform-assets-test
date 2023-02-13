@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/instructor/edx_ace/removebetatester/email/body.10721ba64f7c.txt

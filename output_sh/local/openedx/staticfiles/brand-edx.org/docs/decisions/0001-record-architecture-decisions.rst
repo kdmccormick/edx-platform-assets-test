@@ -1,0 +1,1 @@
+/openedx/staticfiles/brand-edx.org/docs/decisions/0001-record-architecture-decisions.107cb9bf624b.rst

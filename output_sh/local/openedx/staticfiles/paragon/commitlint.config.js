@@ -1,0 +1,1 @@
+/openedx/staticfiles/paragon/commitlint.config.91f9e7f32297.js

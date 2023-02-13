@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/docs/decisions/0002-remove-mongodb-dependency.648f7743075c.rst

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/discovery/models/course_card.26723425a65f.js

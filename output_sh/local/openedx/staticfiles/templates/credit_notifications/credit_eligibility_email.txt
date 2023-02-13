@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/credit_notifications/credit_eligibility_email.c2629d8bd876.txt

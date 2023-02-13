@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/textcolor/plugin.min.5eaaa3b1877e.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/table/plugin.min.98b72401c500.js

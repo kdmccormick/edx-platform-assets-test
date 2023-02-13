@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/autoresize/plugin.3682e3f19798.js

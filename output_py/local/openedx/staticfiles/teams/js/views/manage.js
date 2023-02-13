@@ -1,0 +1,1 @@
+/openedx/staticfiles/teams/js/views/manage.8691e963d102.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/js/vendor/select2/i18n/is.3ddd9a6a97e9.js

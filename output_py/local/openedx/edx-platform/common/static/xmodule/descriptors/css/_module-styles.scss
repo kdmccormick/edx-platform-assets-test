@@ -1,0 +1,31 @@
+@import 'bourbon/bourbon';
+@import 'lms/theme/variables';
+.xmodule_edit.xmodule_AboutBlock {
+  @import "000-cd23cf32f86efa1c4179df0201722e55.scss";
+  @import "001-a10fc3e0fd6aca63426a89e75fe69c31.scss";
+}
+.xmodule_edit.xmodule_AnnotatableBlock {
+  @import "000-d41921b4c5d45188759ef3d04fd9a78a.scss";
+}
+.xmodule_edit.xmodule_CourseInfoBlock {
+  @import "000-cd23cf32f86efa1c4179df0201722e55.scss";
+  @import "001-a10fc3e0fd6aca63426a89e75fe69c31.scss";
+}
+.xmodule_edit.xmodule_CustomTagBlock {
+  @import "000-d41921b4c5d45188759ef3d04fd9a78a.scss";
+}
+.xmodule_edit.xmodule_HtmlBlock {
+  @import "000-cd23cf32f86efa1c4179df0201722e55.scss";
+  @import "001-a10fc3e0fd6aca63426a89e75fe69c31.scss";
+}
+.xmodule_edit.xmodule_ProblemBlock {
+  @import "000-cd23cf32f86efa1c4179df0201722e55.scss";
+  @import "001-901b985e5ea2dea2a89cce747cf4307d.scss";
+}
+.xmodule_edit.xmodule_StaticTabBlock {
+  @import "000-cd23cf32f86efa1c4179df0201722e55.scss";
+  @import "001-a10fc3e0fd6aca63426a89e75fe69c31.scss";
+}
+.xmodule_edit.xmodule_VideoBlock {
+  @import "000-e5d1b330372214d8a7b774e826640db5.scss";
+}

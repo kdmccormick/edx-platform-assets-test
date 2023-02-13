@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/certificates/views/signatory_editor.0afddbee0a8e.js

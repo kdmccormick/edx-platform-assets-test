@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/js/vendor/select2/i18n/ka.2083264a54f0.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/annotator.tags.min.67ca946bc312.js

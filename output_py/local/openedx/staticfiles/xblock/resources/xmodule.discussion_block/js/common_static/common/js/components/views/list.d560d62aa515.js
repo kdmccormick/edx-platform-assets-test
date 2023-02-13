@@ -1,0 +1,1 @@
+/openedx/staticfiles/common/js/components/views/list.d560d62aa515.js

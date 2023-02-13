@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/certificates/views/certificate_editor.a34b8793a7a3.js

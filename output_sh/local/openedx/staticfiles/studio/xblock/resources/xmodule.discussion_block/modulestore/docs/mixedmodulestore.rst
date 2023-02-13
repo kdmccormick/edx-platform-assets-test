@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/modulestore/docs/mixedmodulestore.69aa2ef2ff48.rst

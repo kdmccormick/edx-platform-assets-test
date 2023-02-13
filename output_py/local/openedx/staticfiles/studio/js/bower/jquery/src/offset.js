@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/bower/jquery/src/offset.d4b3f9d1c493.js

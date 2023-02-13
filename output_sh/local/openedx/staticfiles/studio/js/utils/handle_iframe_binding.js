@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/utils/handle_iframe_binding.de879404e794.js

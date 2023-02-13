@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/js/collapse.f84e7410290f.js

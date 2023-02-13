@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsClearSearchButton/AssetsClearSearchButton.test.49e6daa4887b.jsx

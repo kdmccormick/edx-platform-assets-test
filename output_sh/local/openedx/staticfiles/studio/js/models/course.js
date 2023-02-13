@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/models/course.adfe87b20e63.js

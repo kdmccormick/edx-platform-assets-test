@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/video/09_events_bumper_plugin.cd789928aa3c.js

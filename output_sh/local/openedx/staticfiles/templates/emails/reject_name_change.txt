@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/emails/reject_name_change.d4cec462c24f.txt

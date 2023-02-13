@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/factories/certificate_allowlist_factory.fc806470c435.js

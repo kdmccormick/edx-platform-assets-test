@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsFilters/AssetsFilters.test.181e86a0a62f.jsx

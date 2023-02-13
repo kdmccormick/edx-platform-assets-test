@@ -1,0 +1,1 @@
+/openedx/staticfiles/proctoring/js/models/proctored_exam_model.0731c40ca695.js

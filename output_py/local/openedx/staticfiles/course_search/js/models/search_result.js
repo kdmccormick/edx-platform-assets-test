@@ -1,0 +1,1 @@
+/openedx/staticfiles/course_search/js/models/search_result.d7385e874acc.js

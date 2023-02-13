@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/video_thumbnail.3c962361e7f3.js

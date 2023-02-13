@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/emails/order_confirmation_email.0e6626cb7114.txt

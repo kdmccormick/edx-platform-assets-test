@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/src/jschannel.7433acd0217e.js

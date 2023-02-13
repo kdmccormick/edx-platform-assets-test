@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/emails/photo_submission_confirmation.789623e1c985.txt

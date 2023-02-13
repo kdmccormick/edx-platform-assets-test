@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/quickbars/plugin.fc2a9bfd5698.js

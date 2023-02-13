@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/drag_and_drop/update_input.3ec7655b24e4.js

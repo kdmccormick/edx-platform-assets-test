@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/views/tab_item.8530cf7f5440.js

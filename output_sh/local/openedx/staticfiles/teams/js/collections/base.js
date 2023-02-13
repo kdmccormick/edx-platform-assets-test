@@ -1,0 +1,1 @@
+/openedx/staticfiles/teams/js/collections/base.d77e73abb49c.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/dist/openassessment-rtl.55343890f44133115ca3.e6a8c5ec6cdf.js

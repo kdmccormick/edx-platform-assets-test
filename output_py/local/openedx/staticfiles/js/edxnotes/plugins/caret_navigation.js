@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/plugins/caret_navigation.6db7c8612207.js

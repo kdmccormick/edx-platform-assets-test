@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/student_account/components/StudentAccountDeletion.97324d612410.jsx

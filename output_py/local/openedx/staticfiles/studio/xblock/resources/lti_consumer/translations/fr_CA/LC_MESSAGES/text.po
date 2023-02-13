@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/lti_consumer/translations/fr_CA/LC_MESSAGES/text.68a81c02e572.po

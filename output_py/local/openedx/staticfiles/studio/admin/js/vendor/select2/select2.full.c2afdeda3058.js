@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/js/vendor/select2/select2.full.c2afdeda3058.js

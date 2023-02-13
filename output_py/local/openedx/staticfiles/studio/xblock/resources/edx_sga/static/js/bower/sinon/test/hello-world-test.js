@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/bower/sinon/test/hello-world-test.f8e583655a0f.js

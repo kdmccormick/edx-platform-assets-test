@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/video/transcripts/metadata_videolist.cb77c86297d0.js

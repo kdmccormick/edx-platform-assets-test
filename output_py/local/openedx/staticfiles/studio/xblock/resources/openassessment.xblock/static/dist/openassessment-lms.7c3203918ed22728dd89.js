@@ -1,0 +1,1 @@
+/openedx/staticfiles/dist/openassessment-lms.7c3203918ed22728dd89.570f4c0c3abe.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/CourseOutlineStatusLabel/CourseOutlineStatusLabel.test.12912a747547.jsx

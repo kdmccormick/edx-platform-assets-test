@@ -1,0 +1,1 @@
+/openedx/staticfiles/frontend-component-cookie-policy-banner/build/setupTest.0b974606ea28.js

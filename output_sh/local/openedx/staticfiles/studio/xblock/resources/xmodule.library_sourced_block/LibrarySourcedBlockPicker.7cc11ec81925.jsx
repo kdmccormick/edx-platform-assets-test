@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.library_sourced_block/LibrarySourcedBlockPicker.7cc11ec81925.jsx

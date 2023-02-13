@@ -1,0 +1,1 @@
+/openedx/staticfiles/brand-edx.org/docs/decisions/0002-no-dependencies.401625c4d673.rst

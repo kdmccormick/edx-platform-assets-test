@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/edx_sga/locale/rtl/LC_MESSAGES/django.f744ac583db4.mo

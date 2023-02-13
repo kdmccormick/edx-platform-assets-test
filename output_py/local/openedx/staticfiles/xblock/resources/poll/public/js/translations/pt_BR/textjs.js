@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/poll/public/js/translations/pt_BR/textjs.a5ba172004e3.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/annotator.store.4d7d66cbbcb7.js

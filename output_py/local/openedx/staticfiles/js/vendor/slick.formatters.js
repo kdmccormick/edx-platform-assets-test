@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/slick.formatters.6de69a5da7d9.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/tests/data/xml-course-root/uploads/traditional_chinese.441d5ed643d5.srt

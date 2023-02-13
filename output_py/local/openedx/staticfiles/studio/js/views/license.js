@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/license.7ba5530217f9.js

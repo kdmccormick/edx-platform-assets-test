@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/factories/certificate_invalidation_factory.e197f9758f9f.js

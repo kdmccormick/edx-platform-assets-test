@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/CourseChecklist/index.512266e6348b.jsx

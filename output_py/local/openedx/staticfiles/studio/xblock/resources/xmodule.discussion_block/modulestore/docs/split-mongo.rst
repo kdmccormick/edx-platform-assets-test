@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/modulestore/docs/split-mongo.3cea6bc52809.rst

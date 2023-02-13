@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/certificates/collections/signatories.9ffb2d8df51b.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/edxnotes/plugins/accessibility.6610e3b54310.js

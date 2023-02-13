@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/drag_and_drop_v2/public/js/vendor/virtual-dom-1.3.0.min.bccf7a0f26eb.js

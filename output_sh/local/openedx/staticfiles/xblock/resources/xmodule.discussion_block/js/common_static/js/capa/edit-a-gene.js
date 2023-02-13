@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/edit-a-gene.7c49bdb6e734.js

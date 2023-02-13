@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/drag_and_drop/draggable_events.42ce60884c07.js

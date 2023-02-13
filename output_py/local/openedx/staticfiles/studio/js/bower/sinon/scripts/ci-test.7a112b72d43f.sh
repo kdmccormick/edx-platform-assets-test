@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/bower/sinon/scripts/ci-test.7a112b72d43f.sh

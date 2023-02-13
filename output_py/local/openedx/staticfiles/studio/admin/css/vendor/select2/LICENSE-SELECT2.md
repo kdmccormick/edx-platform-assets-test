@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/css/vendor/select2/LICENSE-SELECT2.f94142512c91.md

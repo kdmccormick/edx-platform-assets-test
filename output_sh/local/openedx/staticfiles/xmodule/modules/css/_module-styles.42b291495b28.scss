@@ -1,0 +1,36 @@
+@import 'bourbon/bourbon';
+@import 'lms/theme/variables';
+.xmodule_display.xmodule_AboutBlock {
+  @import "000-9c25b06c992becf5ad01041de849eede.scss";
+}
+.xmodule_display.xmodule_AnnotatableBlock {
+  @import "000-5ecbc1bbde2e55482a03f38c7b813786.scss";
+}
+.xmodule_display.xmodule_CourseInfoBlock {
+  @import "000-9c25b06c992becf5ad01041de849eede.scss";
+}
+.xmodule_display.xmodule_HtmlBlock {
+  @import "000-9c25b06c992becf5ad01041de849eede.scss";
+}
+.xmodule_display.xmodule_LTIBlock {
+  @import "000-80797edfb8c43719d5c3a81f5770ef46.scss";
+}
+.xmodule_display.xmodule_PollBlock {
+  @import "000-043231d4dec200c1dc245325230d74df.scss";
+}
+.xmodule_display.xmodule_ProblemBlock {
+  @import "000-7a987623df4b6a73d5f9d976d6f45e3a.scss";
+}
+.xmodule_display.xmodule_SequenceBlock {
+  @import "000-111785f10f8777adb934f5e931008fe4.scss";
+}
+.xmodule_display.xmodule_StaticTabBlock {
+  @import "000-9c25b06c992becf5ad01041de849eede.scss";
+}
+.xmodule_display.xmodule_VideoBlock {
+  @import "000-272487b7bbc6526ec5c77ec68d1e5830.scss";
+  @import "001-b128df66afea3c41620bee26cd2395f2.scss";
+}
+.xmodule_display.xmodule_WordCloudBlock {
+  @import "000-dee095f89a896fe05b83616b7a20d36c.scss";
+}

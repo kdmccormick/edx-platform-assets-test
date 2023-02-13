@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/fullpage/plugin.min.c6021ce08dfb.js

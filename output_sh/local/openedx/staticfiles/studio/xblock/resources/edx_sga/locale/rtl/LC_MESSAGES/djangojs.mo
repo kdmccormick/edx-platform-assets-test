@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/edx_sga/locale/rtl/LC_MESSAGES/djangojs.84bf3730e65b.mo

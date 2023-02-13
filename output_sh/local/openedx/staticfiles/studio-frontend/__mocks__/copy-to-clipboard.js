@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/__mocks__/copy-to-clipboard.ca7eff7a1060.js

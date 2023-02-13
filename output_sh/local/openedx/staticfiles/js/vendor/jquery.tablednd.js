@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/jquery.tablednd.e6699291bb49.js

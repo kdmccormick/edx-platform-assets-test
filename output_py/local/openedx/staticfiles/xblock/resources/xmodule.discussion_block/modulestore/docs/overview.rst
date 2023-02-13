@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/modulestore/docs/overview.04302964c7c2.rst

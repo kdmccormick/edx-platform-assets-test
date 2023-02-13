@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/models/component_template.07956b047dc0.js

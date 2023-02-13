@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/i18n/th/djangojs.717cf96b120a.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.vertical_block/public/js/vertical_student_view.d02e452d76a8.js

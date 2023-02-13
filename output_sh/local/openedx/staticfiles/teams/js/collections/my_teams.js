@@ -1,0 +1,1 @@
+/openedx/staticfiles/teams/js/collections/my_teams.b59ad35082e3.js

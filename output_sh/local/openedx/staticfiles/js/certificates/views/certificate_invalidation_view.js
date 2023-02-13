@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/views/certificate_invalidation_view.d1d97fd65ba7.js

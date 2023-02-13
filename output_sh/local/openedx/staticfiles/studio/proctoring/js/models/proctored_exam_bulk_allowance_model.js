@@ -1,0 +1,1 @@
+/openedx/staticfiles/proctoring/js/models/proctored_exam_bulk_allowance_model.d7f477ebb331.js

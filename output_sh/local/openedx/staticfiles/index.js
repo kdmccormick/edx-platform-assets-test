@@ -1,0 +1,1 @@
+/openedx/staticfiles/index.0765fe7d13c2.js

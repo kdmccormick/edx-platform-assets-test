@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/capa/schematicinput.7e23074d9d50.js

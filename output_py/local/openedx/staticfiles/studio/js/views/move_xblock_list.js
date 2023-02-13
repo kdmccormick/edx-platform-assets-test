@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/move_xblock_list.11293bcbd17a.js

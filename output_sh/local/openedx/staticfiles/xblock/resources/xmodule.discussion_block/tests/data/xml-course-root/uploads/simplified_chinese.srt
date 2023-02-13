@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/tests/data/xml-course-root/uploads/simplified_chinese.7c3c5478ad2c.srt

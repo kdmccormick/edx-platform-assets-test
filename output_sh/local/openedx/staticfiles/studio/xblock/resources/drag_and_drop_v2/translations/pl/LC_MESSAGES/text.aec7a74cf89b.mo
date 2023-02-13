@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/drag_and_drop_v2/locale/pl/LC_MESSAGES/text.aec7a74cf89b.mo

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/tests/data/xml-course-root/aside/static/another_static.1b02069468a1.txt

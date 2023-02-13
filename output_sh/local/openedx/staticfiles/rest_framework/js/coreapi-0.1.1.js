@@ -1,0 +1,1 @@
+/openedx/staticfiles/rest_framework/js/coreapi-0.1.1.8851fb9336c9.js

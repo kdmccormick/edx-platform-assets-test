@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/bower/jquery/src/deprecated.55ef50aae575.js

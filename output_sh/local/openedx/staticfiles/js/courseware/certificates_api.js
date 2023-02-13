@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/courseware/certificates_api.41fbb2dd40c8.js

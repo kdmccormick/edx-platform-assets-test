@@ -1,0 +1,1 @@
+/openedx/staticfiles/course_bookmarks/js/course_bookmarks_factory.83b5fa124b49.js

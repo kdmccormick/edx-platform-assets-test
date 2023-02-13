@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/lti_consumer/translations/fr/LC_MESSAGES/text.f1335143e145.mo

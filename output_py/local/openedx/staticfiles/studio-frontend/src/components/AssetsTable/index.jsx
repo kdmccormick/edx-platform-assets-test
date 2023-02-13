@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsTable/index.64e8ba64f9b0.jsx

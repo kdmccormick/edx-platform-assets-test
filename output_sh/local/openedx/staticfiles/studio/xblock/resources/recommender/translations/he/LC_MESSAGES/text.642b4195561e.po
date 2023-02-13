@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/recommender/translations/he/LC_MESSAGES/text.642b4195561e.po

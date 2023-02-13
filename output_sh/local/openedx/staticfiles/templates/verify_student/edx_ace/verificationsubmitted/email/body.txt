@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/verify_student/edx_ace/verificationsubmitted/email/body.4df2503807f6.txt

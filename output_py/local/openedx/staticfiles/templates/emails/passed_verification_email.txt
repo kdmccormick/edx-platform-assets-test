@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/emails/passed_verification_email.1dd955d85ea5.txt

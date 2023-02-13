@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/utils/i18n/formattedMessageWrapper.19bc0ffee7d1.jsx

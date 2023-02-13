@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/drag_and_drop_v2/locale/he/LC_MESSAGES/text.0fc4cd747214.po

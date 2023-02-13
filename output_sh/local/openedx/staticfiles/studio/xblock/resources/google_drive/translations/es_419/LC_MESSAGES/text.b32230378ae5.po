@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/google_drive/translations/es_419/LC_MESSAGES/text.b32230378ae5.po

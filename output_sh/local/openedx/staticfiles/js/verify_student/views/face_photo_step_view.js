@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/verify_student/views/face_photo_step_view.ad946ff03e9d.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/poll/translations/ja_JP/LC_MESSAGES/textjs.973618da4e43.po

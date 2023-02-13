@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/js/src/video/08_video_auto_advance_control.45dc530bf8cd.js

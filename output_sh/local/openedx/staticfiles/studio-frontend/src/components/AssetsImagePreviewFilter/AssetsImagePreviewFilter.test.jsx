@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/components/AssetsImagePreviewFilter/AssetsImagePreviewFilter.test.e84d42be2fde.jsx

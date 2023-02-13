@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/colorpicker/plugin.min.3f55e10598ce.js

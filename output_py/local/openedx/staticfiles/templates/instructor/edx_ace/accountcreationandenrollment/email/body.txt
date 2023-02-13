@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/instructor/edx_ace/accountcreationandenrollment/email/body.717b1f8f80cf.txt

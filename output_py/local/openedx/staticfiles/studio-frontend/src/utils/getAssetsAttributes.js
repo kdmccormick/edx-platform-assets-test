@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio-frontend/src/utils/getAssetsAttributes.30b475a2ab33.js

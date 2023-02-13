@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/capa/tests/test_files/dynamath_input.a8d482af4e18.txt

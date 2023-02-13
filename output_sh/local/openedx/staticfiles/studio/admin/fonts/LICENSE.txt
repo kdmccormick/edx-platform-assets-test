@@ -1,0 +1,1 @@
+/openedx/staticfiles/admin/fonts/LICENSE.d273d63619c9.txt

@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/recommender/translations/ru/LC_MESSAGES/text.b4fcb5b2d4a3.mo

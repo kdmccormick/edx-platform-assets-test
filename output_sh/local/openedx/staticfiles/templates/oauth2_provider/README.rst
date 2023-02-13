@@ -1,0 +1,1 @@
+/openedx/staticfiles/templates/oauth2_provider/README.eda33a8ebf19.rst

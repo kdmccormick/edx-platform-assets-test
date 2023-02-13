@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/vendor/tinymce/js/tinymce/plugins/bbcode/plugin.min.8e95dbf22ec8.js

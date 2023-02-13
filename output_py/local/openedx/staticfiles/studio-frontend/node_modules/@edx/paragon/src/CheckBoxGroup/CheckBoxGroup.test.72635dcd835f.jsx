@@ -1,0 +1,1 @@
+/openedx/staticfiles/paragon/src/CheckBoxGroup/CheckBoxGroup.test.72635dcd835f.jsx

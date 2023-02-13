@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/poll/translations/fr_CA/LC_MESSAGES/text.505e7b8f3cfd.po

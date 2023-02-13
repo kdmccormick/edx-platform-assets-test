@@ -1,0 +1,1 @@
+/openedx/staticfiles/xblock/resources/xmodule.discussion_block/docs/decisions/0001-move-due-dates-to-db.77235c9fa9d6.rst

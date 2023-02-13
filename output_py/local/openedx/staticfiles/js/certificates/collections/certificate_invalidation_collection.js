@@ -1,0 +1,1 @@
+/openedx/staticfiles/js/certificates/collections/certificate_invalidation_collection.20f1076bc4e6.js

@@ -1,0 +1,1 @@
+/openedx/staticfiles/support/jsx/errors_list.6b9a65e70b4b.jsx

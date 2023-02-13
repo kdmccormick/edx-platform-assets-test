@@ -1,0 +1,1 @@
+/openedx/staticfiles/studio/js/views/video/transcripts/message_manager.91b1d92d4390.js
