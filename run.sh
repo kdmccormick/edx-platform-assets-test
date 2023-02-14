@@ -33,12 +33,13 @@ test_mode ( ) {
 		#tutor "$mode" copyfrom lms "$path" "$outpath"
 		# but it uses bindmounts, which are VERY slow on macOS, so
 		# instead we invoke docker cp directly:
-		docker cp "tutor_nightly_${mode}-lms-1:$path" "$outpath"
+		docker cp "tutor_nightly_${mode}-lms-1:$path" "$outpath" || \
+		docker cp "tutor_nightly_${mode}_lms_1:$path" "$outpath"
 	done
 	tutor "$mode" stop
 }
 
-(tutor dev stop ; tutor local stop ; tutor k8s stop) || true
+(tutor dev stop ; tutor local stop) || true
 tutor config save \
 	--set EDX_PLATFORM_REPOSITORY=https://github.com/kdmccormick/edx-platform \
 	--set EDX_PLATFORM_VERSION=kdmccormick/assets-sh
@@ -46,8 +47,8 @@ tutor plugins disable mfe
 tutor plugins enable indigo
 
 tutor images build openedx
-tutor dev dc build lms
 test_mode local
+tutor dev dc build lms
 test_mode dev
 #test_mode k8s # TODO
 
