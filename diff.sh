@@ -2,15 +2,9 @@
 
 set -euo pipefail
 
-root_a="${1:-output_py}"
-root_b="${2:-output_sh}"
-compare_path="${3:-}"
-
-no_bom=/tmp/edx-platform-asset-test/no-bom
-rm -rf "$no_bom"
-mkdir -p "$no_bom"
-no_bom_a="$no_bom/a"
-no_bom_b="$no_bom/b"
+root_a="${1:-output_py/local}"
+root_b="${2:-output_sh/local}"
+compare_path="${3:-openedx}"
 
 failure=""
 
@@ -27,9 +21,7 @@ while read -r rel_path ; do
 			failure="T"
 		fi
 	elif [[ -f "$path_a" ]] && [[ -f "$path_b" ]] ; then
-		sed '1s/^\xEF\xBB\xBF//' < "$path_a" > "$no_bom_a"
-		sed '1s/^\xEF\xBB\xBF//' < "$path_b" > "$no_bom_b"
-		if ! diff "$no_bom_a" "$no_bom_b" 1>/dev/null ; then
+		if ! diff "$path_a" "$path_b" 1>/dev/null ; then
 			# diff will print a message for us if it returns 1
 			echo "Files differ:"
 			echo "   $path_a"
