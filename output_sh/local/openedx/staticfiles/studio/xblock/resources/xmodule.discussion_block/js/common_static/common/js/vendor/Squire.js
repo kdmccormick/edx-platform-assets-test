@@ -1,0 +1,1 @@
+/openedx/staticfiles/common/js/vendor/Squire.6b82cd99daf8.js

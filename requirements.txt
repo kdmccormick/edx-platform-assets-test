@@ -1,0 +1,2 @@
+git+https://github.com/kdmccormick/tutor@kdmccormick/test-assets-sh#egg=tutor
+git+https://github.com/overhangio/tutor-indigo@nightly#egg=tutor-indigo

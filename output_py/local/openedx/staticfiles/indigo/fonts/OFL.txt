@@ -1,0 +1,1 @@
+/openedx/staticfiles/indigo/fonts/OFL.6a1d1bd2bafc.txt

@@ -9,17 +9,17 @@ rm -rf "$output"
 mkdir "$output"
 
 test_paths=(
-	"/openedx"
-	#"/openedx/staticfiles"
-	#"/openedx/themes"
+	#"/openedx"
+	"/openedx/staticfiles"
+	"/openedx/themes"
 	#"/openedx/edx-platform"
-	#"/openedx/edx-platform/common/static/bundles"
-	#"/openedx/edx-platform/common/static/common/css"
-	#"/openedx/edx-platform/common/static/js/vendor"
-	#"/openedx/edx-platform/common/static/xmodule"
-	#"/openedx/edx-platform/lms/static/certificates/css"
-	#"/openedx/edx-platform/lms/static/css"
-	#"/openedx/edx-platform/cms/static/css"
+	"/openedx/edx-platform/common/static/bundles"
+	"/openedx/edx-platform/common/static/common/css"
+	"/openedx/edx-platform/common/static/js/vendor"
+	"/openedx/edx-platform/common/static/xmodule"
+	"/openedx/edx-platform/lms/static/certificates/css"
+	"/openedx/edx-platform/lms/static/css"
+	"/openedx/edx-platform/cms/static/css"
 )
 
 test_mode ( ) {
