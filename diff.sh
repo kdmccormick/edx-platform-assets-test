@@ -9,7 +9,8 @@ compare_path="${3:-}"
 no_bom=/tmp/edx-platform-asset-test/no-bom
 rm -rf "$no_bom"
 mkdir -p "$no_bom"
-
+no_bom_a="$no_bom/a"
+no_bom_b="$no_bom/b"
 
 failure=""
 
@@ -26,9 +27,9 @@ while read -r rel_path ; do
 			failure="T"
 		fi
 	elif [[ -f "$path_a" ]] && [[ -f "$path_b" ]] ; then
-		sed '1s/^\xEF\xBB\xBF//' < "$path_a" > "$no_bom/$path_a"
-		sed '1s/^\xEF\xBB\xBF//' < "$path_b" > "$no_bom/$path_b"
-		if ! diff "$no_bom/$path_a" "$no_bom/$path_b" 1>/dev/null ; then
+		sed '1s/^\xEF\xBB\xBF//' < "$path_a" > "$no_bom_a"
+		sed '1s/^\xEF\xBB\xBF//' < "$path_b" > "$no_bom_b"
+		if ! diff "$no_bom_a" "$no_bom_b" 1>/dev/null ; then
 			# diff will print a message for us if it returns 1
 			echo "Files differ:"
 			echo "   $path_a"
@@ -38,11 +39,11 @@ while read -r rel_path ; do
 	elif [[ -d "$path_a" ]] && [[ -d "$path_b" ]] ; then
 		# Both directories; that's all we need to know.
 		true
-	elif [[ ! -e "$path_a" ]] ; then
+	elif [[ ! -L "$path_a" ]] && [[ ! -e "$path_a" ]] ; then
 		echo "File/dir does not exist:"
 		echo "    $path_a"
 		failure="T"
-	elif [[ ! -e "$path_b" ]] ; then
+	elif [[ ! -L "$path_b" ]] && [[ ! -e "$path_b" ]] ; then
 		echo "File/dir does not exist:"
 		echo "    $path_b"
 		failure="T"
