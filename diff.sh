@@ -21,15 +21,24 @@ while read -r rel_path ; do
 			failure="T"
 		fi
 	elif [[ -f "$path_a" ]] && [[ -f "$path_b" ]] ; then
-		if ! diff "$path_a" "$path_b" ; then
+		if ! diff "$path_a" "$path_b" 1>/dev/null ; then
 			# diff will print a message for us if it returns 1
+			echo "Files differ:"
+			echo "   $path_a"
+			echo "   $path_b"
 			failure="T"
 		fi
 	elif [[ -d "$path_a" ]] && [[ -d "$path_b" ]] ; then
 		# Both directories; that's all we need to know.
 		true
+	elif [[ ! -e "$path_a" ]] ; then
+		echo "File/dir does not exist:"
+		echo "    $path_a"
+	elif [[ ! -e "$path_b" ]] ; then
+		echo "File/dir does not exist:"
+		echo "    $path_b"
 	else
-		echo "These files have mismatched/unknown types, or one of them is missing:"
+		echo "These files/dirs have mismatched/unknown types:"
 		echo "   $path_a"
 		echo "   $path_b"
 		failure="T"
