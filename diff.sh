@@ -25,10 +25,7 @@ while read -r rel_path ; do
 	elif [[ -f "$path_a" ]] && [[ -f "$path_b" ]] ; then
 		cmp_a="$path_a"
 		cmp_b="$path_b"
-		if [[ "$rel_path" = *.pyc ]] ; then
-			# Ignore pyc files
-			continue
-		elif [[ "$rel_path" = *openedx/staticfiles/* ]] && [[ "$rel_path" = */staticfiles.json ]] ; then
+		if [[ "$rel_path" = *openedx/staticfiles/* ]] && [[ "$rel_path" = */staticfiles.json ]] ; then
 			echo "(note: sorting $rel_path before comparing)"
 			# Special case: The order of these files seems to be unpredictable.
 			# Compare the key-sorted output instead of the literal output.
