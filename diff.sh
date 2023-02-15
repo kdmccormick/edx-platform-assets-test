@@ -2,11 +2,13 @@
 
 set -euo pipefail
 
-root_a="${1:-output_py/local}"
-root_b="${2:-output_sh/local}"
-compare_path="${3:-openedx}"
+root_a="${1:-output_py}"
+root_b="${2:-output_sh}"
+compare_path="${3:-}"
 
 failure=""
+
+SORT_JSON_PY='import json,sys;print(json.dumps(json.load(sys.stdin), sort_keys=True))'
 
 while read -r rel_path ; do
 	path_a="$root_a/$rel_path"
@@ -21,8 +23,21 @@ while read -r rel_path ; do
 			failure="T"
 		fi
 	elif [[ -f "$path_a" ]] && [[ -f "$path_b" ]] ; then
-		if ! diff "$path_a" "$path_b" 1>/dev/null ; then
-			# diff will print a message for us if it returns 1
+		cmp_a="$path_a"
+		cmp_b="$path_b"
+		if [[ "$rel_path" = *.pyc ]] ; then
+			# Ignore pyc files
+			continue
+		elif [[ "$rel_path" = *openedx/staticfiles/* ]] && [[ "$rel_path" = */staticfiles.json ]] ; then
+			echo "(note: sorting $rel_path before comparing)"
+			# Special case: The order of these files seems to be unpredictable.
+			# Compare the key-sorted output instead of the literal output.
+			cmp_a=/tmp/edx-platform-asset-cmp-a
+			cmp_b=/tmp/edx-platform-asset-cmp-b
+			python3 -c "$SORT_JSON_PY" <"$path_a" >"$cmp_a"
+			python3 -c "$SORT_JSON_PY" <"$path_b" >"$cmp_b"
+		fi
+		if ! diff "$cmp_a" "$cmp_b" 1>/dev/null ; then
 			echo "Files differ:"
 			echo "   $path_a"
 			echo "   $path_b"
